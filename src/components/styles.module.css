@@ -1,0 +1,23 @@
+.logoSpan {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+ img{width: 25%; height:25%}
+
+.layout{
+}
+.icons {
+    opacity: 0.5;
+}
+
+.column {
+    width:100%;
+    max-width: 500px;
+}
+
+.fields {
+    height:3rem
+}
