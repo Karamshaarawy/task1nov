@@ -77,9 +77,7 @@ const signUpPage = () => {
           </Col>
         </Row>
       </Content>
-      <Footer style={{ textAlign: "center" }}>
-        by Karam Shaarawy on 1st Nov
-      </Footer>
+      <Footer style={{ textAlign: "center" }}></Footer>
     </Layout>
   );
 };
